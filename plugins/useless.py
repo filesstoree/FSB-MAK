@@ -6,7 +6,7 @@ from datetime import datetime
 from helper_func import get_readable_time
 
 @Bot.on_message(filters.command('followus'))
-async def followus(client: Client, message: Message):
+async def followus(bot: Bot, message: Message):
     while True:
          reply_markup=InlineKeyboardMarkup(
                         [
