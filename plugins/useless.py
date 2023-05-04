@@ -12,9 +12,9 @@ async def followus(client: Client, message: Message):
                         [
                          [
                           InlineKeyboardButton('𝓜𝓸𝓿𝓲𝓮𝓼 𝓖𝓻𝓸𝓾𝓹', url="t.me/+ADvUFRV3nsljNTM1"),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="t.me/MoviezAddaKan")
+                          InlineKeyboardButton('𝓤𝓹𝓭𝓪𝓽𝓮𝓼 𝓒𝓱𝓪𝓷𝓷𝓮𝓵', url="t.me/MoviezAddaKan")
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/captblacknight")
+                          InlineKeyboardButton("𝓑𝓸𝓽 𝓞𝔀𝓷𝓮𝓻", url="t.me/captblacknight")
                          ]
                         ]
                     )
