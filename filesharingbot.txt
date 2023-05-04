@@ -1,0 +1,156 @@
+[15-Apr-23 20:20:05 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:24:57 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:32:05 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyrogram\dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+  File "C:\Users\Madhan Gowda\AppData\Local\Programs\Python\Python310\lib\site-packages\pyromod\listen\listen.py", line 196, in check
+    (message.chat.id, message.from_user.id, message.id),
+AttributeError: 'NoneType' object has no attribute 'id'
+[15-Apr-23 20:33:32 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[15-Apr-23 20:51:47 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
+[16-Apr-23 16:01:34 - INFO] - bot - Bot Running..!
+
+Created by 
+https://t.me/CodeXBotz
